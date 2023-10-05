@@ -12,7 +12,7 @@ namespace Название_метода
         {
         }
 
-        public static int SetNumber(int a, int b, int c)
+        public static int GetNumber(int a, int b, int c)
         {
             if (a < b)
                 return b;
